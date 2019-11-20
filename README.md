@@ -8,3 +8,6 @@ A collection of WAYYYYY to many legal, homebrew ROMs for use on RetroPie, Flashc
 
 ## Why?
 Because the homebrew scene is great and I would like to see what has been created to exist forever. 
+
+## How?
+Several Years of being in the homebrew scene, and also many hours of looking on sites with stuff to preserve.
