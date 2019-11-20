@@ -11,3 +11,11 @@ Because the homebrew scene is great and I would like to see what has been create
 
 ## How?
 Several Years of being in the homebrew scene, and also many hours of looking on sites with stuff to preserve.
+
+## TODO
+- Bally Astrocade
+- Atari 5200
+- Atari ST
+- MS-DOS
+- Microsoft Windows
+- Add the Game Boy ROMs from freeroms.com
