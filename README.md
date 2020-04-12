@@ -24,7 +24,6 @@ Several Years of being in the homebrew scene, and also many hours of looking on 
 
 ## TODO
 - Bally Astrocade
-- Atari ST
-- MS-DOS
-- Microsoft Windows
+- Emerson Arcadia 2001
+- Milton Bradley Microvision
 - Add the Game Boy ROMs from freeroms.com
