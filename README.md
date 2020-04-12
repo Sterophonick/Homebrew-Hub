@@ -28,4 +28,6 @@ Several Years of being in the homebrew scene, and also many hours of looking on 
 - Milton Bradley Microvision
 - BBC Microcomputer System
 - NEC PC-FX
+- Commodore 64
+- Commodore VIC-20
 - Add the Game Boy ROMs from freeroms.com
