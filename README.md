@@ -26,4 +26,6 @@ Several Years of being in the homebrew scene, and also many hours of looking on 
 - Bally Astrocade
 - Emerson Arcadia 2001
 - Milton Bradley Microvision
+- BBC Microcomputer System
+- NEC PC-FX
 - Add the Game Boy ROMs from freeroms.com
