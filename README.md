@@ -35,4 +35,9 @@ Several Years of being in the homebrew scene, and also many hours of looking on 
 - BBC Microcomputer System
 - Commodore 64
 - Commodore VIC-20
+- Nintendo 3DS
+- Nintendo DS
+- Nintendo 64
+- Nintendo Switch
+- Nintendo Virtual Boy
 - Add the Game Boy ROMs from freeroms.com
