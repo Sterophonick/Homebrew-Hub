@@ -3,6 +3,8 @@ This repository is dedicated to preserving many homebrew ROMs from the scene tha
 Some of these ROMs may be offensive. I don't want to censor/remove these ROMs as doing so would be like saying that they 
 never ever existed at one point. If you don't want to see things like that, please don't look at them. Thank you!
 
+Removal requests go to @Sterophonick on Twitter!
+
 # Homebrew-Hub
 An irresponsible number of legal, homebrew ROMs for use on RetroPie, Flashcarts, or Emulators.
 
